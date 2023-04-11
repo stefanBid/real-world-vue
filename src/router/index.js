@@ -19,7 +19,14 @@ const router = createRouter({
       path: '/about',
       name: 'about',
       component: () => import('../views/AboutView.vue')
-    }
+    },
+    // and finally the default route, when none of the above matches:
+    { 
+      path: "/:pathMatch(.*)*", 
+      name: 'PageNotFound',
+      component: () => import('../views/PageNotFoundView.vue') 
+    },
+    
   ]
 })
 
