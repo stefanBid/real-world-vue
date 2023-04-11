@@ -1,10 +1,9 @@
 # real-world-vue
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a guide project, which allows you to brush up on the fundamentals of building a modern Vue app.
+<br>
+In the `master` branch you can see the latest stable version of the project, in the `develop` branch you can see the changes that are being made for future releases and that is what needs to be cloned if you want to make changes to the project
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
 ## Customize configuration
 
@@ -28,8 +27,7 @@ npm run dev
 npm run build
 ```
 
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+## See the project online
+The application is hosted thanks to [Render](https://render.com/).
+<br>
+It can be accessed at any time by clicking [here](), or by entering the following link: []().
