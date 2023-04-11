@@ -31,3 +31,6 @@ npm run build
 The application is hosted thanks to [Render](https://render.com/).
 <br>
 It can be accessed at any time by clicking [here](), or by entering the following link: []().
+
+## Server Side for this application
+The data that this demo app makes use of is taken from a Server simulated through, [my-json-server](https://my-json-server.typicode.com/stefanBid/eventsDB), in which there is a JSON file that serves as a DB. That file can also be accessed at the following [repo](https://github.com/stefanBid/eventsDB).
