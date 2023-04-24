@@ -17,6 +17,7 @@ export default{
       </div>
     </header>
     <RouterView />
+    <img src="./assets/logo.svg" alt="">
   </div>
 </template>
 
